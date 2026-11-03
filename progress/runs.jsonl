@@ -1,2 +1,3 @@
 {"timestamp": "2026-11-01T20:08:26+00:00", "type": "end_run", "summary": "Fork limpo criado a partir do AI Commerce (sem histórico, sem segredos); plano de transformação escrito.", "tests": "gitleaks dir: só valores de simulação/teste; testes da API não executados", "done": 0, "total": 7}
 {"timestamp": "2026-11-01T20:25:30+00:00", "type": "end_run", "summary": "F0 em revisão: CI verde (api 767 passed, web, compose, progress).", "tests": "GitHub Actions run 41345774028: sucesso", "done": 0, "total": 7}
+{"timestamp": "2026-11-03T23:16:14+00:00", "type": "end_run", "summary": "README reescrito para apresentar o projeto", "tests": "não executados: mudança só de documentação", "done": 0, "total": 7}
